@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  jws-tests:
+    - created: 2021-06-28T10:46:28.471714127+02:00
+      description: Test apps for JWS
+      digest: XXX
+      home: https://github.com/agbaroni/charts
+      name: jws-tests
+      sources:
+        - https://github.com/agbaroni/charts
+      urls:
+        - https://github.com/agbaroni/charts/jws-tests-0.1.0.tgz
+      version: 0.1.0
+generated: 2021-06-28T10:52:02.287062199+02:00
